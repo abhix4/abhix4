@@ -1,5 +1,5 @@
-## Hey, I’m Abhishek 👋
+Hi, I'm Abhishek. 
 
-> x - https://x.com/abhiix4
-> email - abhiifour@gmail.com
-> site - i.abhiifour.xyz
+- abhiifour@gmail.com
+- https://x.com/abhiix4
+- https://i.abhiifour.xyz
